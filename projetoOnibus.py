@@ -1,6 +1,7 @@
 "do 0/projetoBusao.py"
+print('00') 
 print('>=<' * 40)
-letreiro = str(input('Bem-Vindo, escolha seu onibus, digite 0 para continuar'))
+letreiro = str(input('Bem-Vindo, escolha seu onibus, digite 0 para continuar!!!!'))
 onibus = 0
 rapido = 8
 conforte = 10
